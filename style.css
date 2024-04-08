@@ -1,0 +1,59 @@
+.img-fluid {
+  width: 600px;
+  height: 400px;
+  border-radius: 7px;
+}
+
+#img{
+  width: 500px;
+  height: 500px;
+}
+
+.btn-primary {
+  font-size: 20px;
+  margin-right: 30px;
+  margin-top: 10px;
+  padding: 8px 20px 8px 20px;
+}
+
+.btn-outline-light {
+  font-size: 20px;
+  margin-top: 10px;
+  padding-top: 7px;
+  padding: 8px 20px 8px 20px;
+}
+
+.fa-solid {
+  height: 10px;
+  width: 10px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.h5 {
+  font-size: 23px;
+}
+
+.rounded-circle {
+  height: 40px;
+  width: 40px;
+}
+
+i {
+  font-size: 22px;
+}
+
+/* #image {
+  width: 150px !important;
+  height: 150px !important;
+} */
+
+.card:hover{
+  transform: scale3d(1.006, 1.006, 10);
+}
+
+.card-body{
+ height: 150px;
+}
